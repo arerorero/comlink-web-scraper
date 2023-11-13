@@ -1,0 +1,3038 @@
+[
+  [
+    {
+      "column_0": "384785",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "10/11/2023 10:50:39",
+      "column_7": "25/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75635",
+      "itens": [
+        {
+          "Codigo": "1607300000942",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 769,4400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.616,64"
+        },
+        {
+          "Codigo": "1607300000943",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "9",
+          "ValorUnitario": "R$ 547,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.923,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384605",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "45",
+      "column_6": "09/11/2023 14:35:25",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100122",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 264,6225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 264,62"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100371",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 3,8025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22,82"
+        },
+        {
+          "Codigo": "1004408100516",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 47,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 95,90"
+        },
+        {
+          "Codigo": "1004408100559",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 138,6375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 277,28"
+        },
+        {
+          "Codigo": "1004408100574",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 354,0300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 708,06"
+        },
+        {
+          "Codigo": "1004408100659",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,7525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,75"
+        },
+        {
+          "Codigo": "1004408100661",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 159,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 319,53"
+        },
+        {
+          "Codigo": "1004408100806",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 233,4900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 466,98"
+        },
+        {
+          "Codigo": "1004408100856",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 246,9525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 246,95"
+        },
+        {
+          "Codigo": "1004408100857",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 265,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 265,21"
+        },
+        {
+          "Codigo": "1004408100861",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 398,8875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 398,89"
+        },
+        {
+          "Codigo": "1004408100866",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 304,9500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 304,95"
+        },
+        {
+          "Codigo": "1004408100980",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 9,3900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 56,34"
+        },
+        {
+          "Codigo": "1004408100985",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 99,5250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 99,53"
+        },
+        {
+          "Codigo": "1004408100986",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 14,5700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 14,57"
+        },
+        {
+          "Codigo": "1004408100988",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 9,3400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 28,02"
+        },
+        {
+          "Codigo": "1004408100999",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 13,8000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 13,80"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101274",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 37,4925",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 74,99"
+        }
+      ]
+    },
+    {
+      "column_0": "384699",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "4",
+      "column_6": "09/11/2023 14:15:25",
+      "column_7": "16/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75683",
+      "itens": [
+        {
+          "Codigo": "1004408100099",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,0725",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,07"
+        },
+        {
+          "Codigo": "1004408100793",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 10,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 30,62"
+        },
+        {
+          "Codigo": "1004408102217",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 274,3800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 274,38"
+        },
+        {
+          "Codigo": "1004408103492",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 14,8125",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 29,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384604",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "48",
+      "column_6": "09/11/2023 12:40:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100042",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 196,2975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.177,79"
+        },
+        {
+          "Codigo": "1004408100139",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,1700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,17"
+        },
+        {
+          "Codigo": "1004408100321",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 40,8975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 40,90"
+        },
+        {
+          "Codigo": "1004408100322",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 17,6700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 35,34"
+        },
+        {
+          "Codigo": "1004408100323",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 626,8275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 626,83"
+        },
+        {
+          "Codigo": "1004408100336",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 201,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 201,00"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100500",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 176,6250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 353,25"
+        },
+        {
+          "Codigo": "1004408100522",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 217,3875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 434,78"
+        },
+        {
+          "Codigo": "1004408100523",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 726,2325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.178,70"
+        },
+        {
+          "Codigo": "1004408100560",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 129,4200",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 129,42"
+        },
+        {
+          "Codigo": "1004408100567",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 100,5825",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 100,58"
+        },
+        {
+          "Codigo": "1004408100631",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 420,0600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 840,12"
+        },
+        {
+          "Codigo": "1004408100970",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 29,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 59,90"
+        },
+        {
+          "Codigo": "1004408100973",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1.483,6275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.967,26"
+        },
+        {
+          "Codigo": "1004408100974",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 77,4500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 619,60"
+        },
+        {
+          "Codigo": "1004408100984",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 71,7300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 573,84"
+        },
+        {
+          "Codigo": "1004408101000",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 45,8700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 183,48"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101087",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 12.770,5800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 12.770,58"
+        }
+      ]
+    },
+    {
+      "column_0": "384661",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 20:35:38",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75577",
+      "itens": [
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        },
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        }
+      ]
+    },
+    {
+      "column_0": "384660",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "8",
+      "column_6": "08/11/2023 20:35:35",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75576",
+      "itens": [
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        }
+      ]
+    },
+    {
+      "column_0": "384659",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:33",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75570",
+      "itens": [
+        {
+          "Codigo": "0904206801659",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 8,6625",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 8,66"
+        }
+      ]
+    },
+    {
+      "column_0": "384658",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:30",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408101056",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1,1325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2,27"
+        }
+      ]
+    },
+    {
+      "column_0": "384657",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "5",
+      "column_6": "08/11/2023 20:35:28",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408100134",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 125,5950",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 251,19"
+        },
+        {
+          "Codigo": "1004408100142",
+          "Unidade": "JG",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 17,0550",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 17,06"
+        },
+        {
+          "Codigo": "1004408100328",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 19,0650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 19,07"
+        },
+        {
+          "Codigo": "1004408100528",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 188,2875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 188,29"
+        },
+        {
+          "Codigo": "1004408101115",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,9400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,94"
+        }
+      ]
+    },
+    {
+      "column_0": "384634",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:25:43",
+      "column_7": "27/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75526",
+      "itens": [
+        {
+          "Codigo": "1004453204439",
+          "Unidade": "PC",
+          "Prazo": "27-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 253,2150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 506,43"
+        }
+      ]
+    },
+    {
+      "column_0": "384603",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453202212",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 18,3150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 36,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384602",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:26",
+      "column_7": "30/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453203068",
+          "Unidade": "PC",
+          "Prazo": "30-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 5.141,0025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 5.141,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384395",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 18:10:37",
+      "column_7": "22/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75487",
+      "itens": [
+        {
+          "Codigo": "0904206802059",
+          "Unidade": "PC",
+          "Prazo": "22-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 22.497,8400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22.497,84"
+        }
+      ]
+    },
+    {
+      "column_0": "384511",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 14:35:46",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        },
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        }
+      ]
+    },
+    {
+      "column_0": "384510",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 14:35:44",
+      "column_7": "18/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002078",
+          "Unidade": "PC",
+          "Prazo": "18-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.905,7275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.905,73"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "column_0": "384785",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "10/11/2023 10:50:39",
+      "column_7": "25/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75635",
+      "itens": [
+        {
+          "Codigo": "1607300000942",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 769,4400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.616,64"
+        },
+        {
+          "Codigo": "1607300000943",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "9",
+          "ValorUnitario": "R$ 547,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.923,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384605",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "45",
+      "column_6": "09/11/2023 14:35:25",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100122",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 264,6225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 264,62"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100371",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 3,8025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22,82"
+        },
+        {
+          "Codigo": "1004408100516",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 47,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 95,90"
+        },
+        {
+          "Codigo": "1004408100559",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 138,6375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 277,28"
+        },
+        {
+          "Codigo": "1004408100574",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 354,0300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 708,06"
+        },
+        {
+          "Codigo": "1004408100659",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,7525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,75"
+        },
+        {
+          "Codigo": "1004408100661",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 159,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 319,53"
+        },
+        {
+          "Codigo": "1004408100806",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 233,4900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 466,98"
+        },
+        {
+          "Codigo": "1004408100856",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 246,9525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 246,95"
+        },
+        {
+          "Codigo": "1004408100857",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 265,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 265,21"
+        },
+        {
+          "Codigo": "1004408100861",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 398,8875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 398,89"
+        },
+        {
+          "Codigo": "1004408100866",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 304,9500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 304,95"
+        },
+        {
+          "Codigo": "1004408100980",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 9,3900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 56,34"
+        },
+        {
+          "Codigo": "1004408100985",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 99,5250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 99,53"
+        },
+        {
+          "Codigo": "1004408100986",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 14,5700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 14,57"
+        },
+        {
+          "Codigo": "1004408100988",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 9,3400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 28,02"
+        },
+        {
+          "Codigo": "1004408100999",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 13,8000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 13,80"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101274",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 37,4925",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 74,99"
+        }
+      ]
+    },
+    {
+      "column_0": "384699",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "4",
+      "column_6": "09/11/2023 14:15:25",
+      "column_7": "16/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75683",
+      "itens": [
+        {
+          "Codigo": "1004408100099",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,0725",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,07"
+        },
+        {
+          "Codigo": "1004408100793",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 10,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 30,62"
+        },
+        {
+          "Codigo": "1004408102217",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 274,3800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 274,38"
+        },
+        {
+          "Codigo": "1004408103492",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 14,8125",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 29,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384604",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "48",
+      "column_6": "09/11/2023 12:40:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100042",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 196,2975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.177,79"
+        },
+        {
+          "Codigo": "1004408100139",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,1700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,17"
+        },
+        {
+          "Codigo": "1004408100321",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 40,8975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 40,90"
+        },
+        {
+          "Codigo": "1004408100322",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 17,6700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 35,34"
+        },
+        {
+          "Codigo": "1004408100323",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 626,8275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 626,83"
+        },
+        {
+          "Codigo": "1004408100336",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 201,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 201,00"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100500",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 176,6250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 353,25"
+        },
+        {
+          "Codigo": "1004408100522",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 217,3875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 434,78"
+        },
+        {
+          "Codigo": "1004408100523",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 726,2325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.178,70"
+        },
+        {
+          "Codigo": "1004408100560",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 129,4200",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 129,42"
+        },
+        {
+          "Codigo": "1004408100567",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 100,5825",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 100,58"
+        },
+        {
+          "Codigo": "1004408100631",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 420,0600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 840,12"
+        },
+        {
+          "Codigo": "1004408100970",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 29,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 59,90"
+        },
+        {
+          "Codigo": "1004408100973",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1.483,6275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.967,26"
+        },
+        {
+          "Codigo": "1004408100974",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 77,4500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 619,60"
+        },
+        {
+          "Codigo": "1004408100984",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 71,7300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 573,84"
+        },
+        {
+          "Codigo": "1004408101000",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 45,8700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 183,48"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101087",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 12.770,5800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 12.770,58"
+        }
+      ]
+    },
+    {
+      "column_0": "384661",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 20:35:38",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75577",
+      "itens": [
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        },
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        }
+      ]
+    },
+    {
+      "column_0": "384660",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "8",
+      "column_6": "08/11/2023 20:35:35",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75576",
+      "itens": [
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        }
+      ]
+    },
+    {
+      "column_0": "384659",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:33",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75570",
+      "itens": [
+        {
+          "Codigo": "0904206801659",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 8,6625",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 8,66"
+        }
+      ]
+    },
+    {
+      "column_0": "384658",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:30",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408101056",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1,1325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2,27"
+        }
+      ]
+    },
+    {
+      "column_0": "384657",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "5",
+      "column_6": "08/11/2023 20:35:28",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408100134",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 125,5950",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 251,19"
+        },
+        {
+          "Codigo": "1004408100142",
+          "Unidade": "JG",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 17,0550",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 17,06"
+        },
+        {
+          "Codigo": "1004408100328",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 19,0650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 19,07"
+        },
+        {
+          "Codigo": "1004408100528",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 188,2875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 188,29"
+        },
+        {
+          "Codigo": "1004408101115",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,9400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,94"
+        }
+      ]
+    },
+    {
+      "column_0": "384634",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:25:43",
+      "column_7": "27/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75526",
+      "itens": [
+        {
+          "Codigo": "1004453204439",
+          "Unidade": "PC",
+          "Prazo": "27-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 253,2150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 506,43"
+        }
+      ]
+    },
+    {
+      "column_0": "384603",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453202212",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 18,3150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 36,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384602",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:26",
+      "column_7": "30/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453203068",
+          "Unidade": "PC",
+          "Prazo": "30-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 5.141,0025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 5.141,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384395",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 18:10:37",
+      "column_7": "22/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75487",
+      "itens": [
+        {
+          "Codigo": "0904206802059",
+          "Unidade": "PC",
+          "Prazo": "22-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 22.497,8400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22.497,84"
+        }
+      ]
+    },
+    {
+      "column_0": "384511",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 14:35:46",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        },
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        }
+      ]
+    },
+    {
+      "column_0": "384510",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 14:35:44",
+      "column_7": "18/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002078",
+          "Unidade": "PC",
+          "Prazo": "18-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.905,7275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.905,73"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "column_0": "384785",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "10/11/2023 10:50:39",
+      "column_7": "25/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75635",
+      "itens": [
+        {
+          "Codigo": "1607300000942",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 769,4400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.616,64"
+        },
+        {
+          "Codigo": "1607300000943",
+          "Unidade": "PC",
+          "Prazo": "25-NOV-23",
+          "Quantidade": "9",
+          "ValorUnitario": "R$ 547,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 4.923,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384605",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "45",
+      "column_6": "09/11/2023 14:35:25",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100122",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 264,6225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 264,62"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100371",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 3,8025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22,82"
+        },
+        {
+          "Codigo": "1004408100516",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 47,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 95,90"
+        },
+        {
+          "Codigo": "1004408100559",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 138,6375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 277,28"
+        },
+        {
+          "Codigo": "1004408100574",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 354,0300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 708,06"
+        },
+        {
+          "Codigo": "1004408100659",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,7525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,75"
+        },
+        {
+          "Codigo": "1004408100661",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 159,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 319,53"
+        },
+        {
+          "Codigo": "1004408100806",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 233,4900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 466,98"
+        },
+        {
+          "Codigo": "1004408100856",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 246,9525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 246,95"
+        },
+        {
+          "Codigo": "1004408100857",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 265,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 265,21"
+        },
+        {
+          "Codigo": "1004408100861",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 398,8875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 398,89"
+        },
+        {
+          "Codigo": "1004408100866",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 304,9500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 304,95"
+        },
+        {
+          "Codigo": "1004408100980",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 9,3900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 56,34"
+        },
+        {
+          "Codigo": "1004408100985",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 99,5250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 99,53"
+        },
+        {
+          "Codigo": "1004408100986",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 14,5700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 14,57"
+        },
+        {
+          "Codigo": "1004408100988",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 9,3400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 28,02"
+        },
+        {
+          "Codigo": "1004408100999",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 13,8000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 13,80"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101274",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 37,4925",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 74,99"
+        }
+      ]
+    },
+    {
+      "column_0": "384699",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "4",
+      "column_6": "09/11/2023 14:15:25",
+      "column_7": "16/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75683",
+      "itens": [
+        {
+          "Codigo": "1004408100099",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,0725",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,07"
+        },
+        {
+          "Codigo": "1004408100793",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 10,2075",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 30,62"
+        },
+        {
+          "Codigo": "1004408102217",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 274,3800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 274,38"
+        },
+        {
+          "Codigo": "1004408103492",
+          "Unidade": "PC",
+          "Prazo": "16-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 14,8125",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 29,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384604",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "48",
+      "column_6": "09/11/2023 12:40:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75567",
+      "itens": [
+        {
+          "Codigo": "1004408100042",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "6",
+          "ValorUnitario": "R$ 196,2975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.177,79"
+        },
+        {
+          "Codigo": "1004408100139",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 127,1700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 127,17"
+        },
+        {
+          "Codigo": "1004408100321",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 40,8975",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 40,90"
+        },
+        {
+          "Codigo": "1004408100322",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 17,6700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 35,34"
+        },
+        {
+          "Codigo": "1004408100323",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 626,8275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 626,83"
+        },
+        {
+          "Codigo": "1004408100336",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 201,0000",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 201,00"
+        },
+        {
+          "Codigo": "1004408100363",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 60,9600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 60,96"
+        },
+        {
+          "Codigo": "1004408100500",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 176,6250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 353,25"
+        },
+        {
+          "Codigo": "1004408100522",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 217,3875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 434,78"
+        },
+        {
+          "Codigo": "1004408100523",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "3",
+          "ValorUnitario": "R$ 726,2325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.178,70"
+        },
+        {
+          "Codigo": "1004408100560",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 129,4200",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 129,42"
+        },
+        {
+          "Codigo": "1004408100567",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 100,5825",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 100,58"
+        },
+        {
+          "Codigo": "1004408100631",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 420,0600",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 840,12"
+        },
+        {
+          "Codigo": "1004408100970",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 29,9475",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 59,90"
+        },
+        {
+          "Codigo": "1004408100973",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1.483,6275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2.967,26"
+        },
+        {
+          "Codigo": "1004408100974",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 77,4500",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 619,60"
+        },
+        {
+          "Codigo": "1004408100984",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "8",
+          "ValorUnitario": "R$ 71,7300",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 573,84"
+        },
+        {
+          "Codigo": "1004408101000",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 45,8700",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 183,48"
+        },
+        {
+          "Codigo": "1004408101086",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,3250",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,33"
+        },
+        {
+          "Codigo": "1004408101087",
+          "Unidade": "PC",
+          "Prazo": "13-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 12.770,5800",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 12.770,58"
+        }
+      ]
+    },
+    {
+      "column_0": "384661",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 20:35:38",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75577",
+      "itens": [
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        },
+        {
+          "Codigo": "1004453200230",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "12",
+          "ValorUnitario": "R$ 0,7650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 9,18"
+        }
+      ]
+    },
+    {
+      "column_0": "384660",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "8",
+      "column_6": "08/11/2023 20:35:35",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75576",
+      "itens": [
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453201790",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 8,1525",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 16,31"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204133",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.138,5900",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.138,59"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204134",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.092,4275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.092,43"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        },
+        {
+          "Codigo": "1004453204705",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "4",
+          "ValorUnitario": "R$ 19,5375",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 78,15"
+        }
+      ]
+    },
+    {
+      "column_0": "384659",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:33",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75570",
+      "itens": [
+        {
+          "Codigo": "0904206801659",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 8,6625",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 8,66"
+        }
+      ]
+    },
+    {
+      "column_0": "384658",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 20:35:30",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408101056",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 1,1325",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 2,27"
+        }
+      ]
+    },
+    {
+      "column_0": "384657",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "5",
+      "column_6": "08/11/2023 20:35:28",
+      "column_7": "14/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75568",
+      "itens": [
+        {
+          "Codigo": "1004408100134",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 125,5950",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 251,19"
+        },
+        {
+          "Codigo": "1004408100142",
+          "Unidade": "JG",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 17,0550",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 17,06"
+        },
+        {
+          "Codigo": "1004408100328",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 19,0650",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 19,07"
+        },
+        {
+          "Codigo": "1004408100528",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 188,2875",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 188,29"
+        },
+        {
+          "Codigo": "1004408101115",
+          "Unidade": "PC",
+          "Prazo": "14-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 347,9400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 347,94"
+        }
+      ]
+    },
+    {
+      "column_0": "384634",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:25:43",
+      "column_7": "27/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75526",
+      "itens": [
+        {
+          "Codigo": "1004453204439",
+          "Unidade": "PC",
+          "Prazo": "27-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 253,2150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 506,43"
+        }
+      ]
+    },
+    {
+      "column_0": "384603",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:28",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453202212",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 18,3150",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 36,63"
+        }
+      ]
+    },
+    {
+      "column_0": "384602",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 19:00:26",
+      "column_7": "30/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75491",
+      "itens": [
+        {
+          "Codigo": "1004453203068",
+          "Unidade": "PC",
+          "Prazo": "30-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 5.141,0025",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 5.141,00"
+        }
+      ]
+    },
+    {
+      "column_0": "384395",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 18:10:37",
+      "column_7": "22/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75487",
+      "itens": [
+        {
+          "Codigo": "0904206802059",
+          "Unidade": "PC",
+          "Prazo": "22-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 22.497,8400",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 22.497,84"
+        }
+      ]
+    },
+    {
+      "column_0": "384511",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "2",
+      "column_6": "08/11/2023 14:35:46",
+      "column_7": "23/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        },
+        {
+          "Codigo": "1106100002091",
+          "Unidade": "PC",
+          "Prazo": "23-NOV-23",
+          "Quantidade": "2",
+          "ValorUnitario": "R$ 563,4225",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.126,85"
+        }
+      ]
+    },
+    {
+      "column_0": "384510",
+      "column_1": "",
+      "column_2": "",
+      "column_3": "",
+      "column_4": "Adecoagro Vale do Ivinhema S.A.",
+      "column_5": "1",
+      "column_6": "08/11/2023 14:35:44",
+      "column_7": "18/11/2023",
+      "column_8": "",
+      "column_9": "",
+      "column_10": "",
+      "column_11": "COMLINK: SDC: 75430",
+      "itens": [
+        {
+          "Codigo": "1106100002078",
+          "Unidade": "PC",
+          "Prazo": "18-NOV-23",
+          "Quantidade": "1",
+          "ValorUnitario": "R$ 1.905,7275",
+          "Desconto": "",
+          "ICMS": "0",
+          "IPI": "0",
+          "ValorTotal": "R$ 1.905,73"
+        }
+      ]
+    }
+  ]
+]

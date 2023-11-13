@@ -2,6 +2,9 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const puppeteer = require('puppeteer')
 
+const fs = require('fs');
+
+
 const url = 'http://comlink.com.br';
 
 async function login(page) {
@@ -49,7 +52,8 @@ async function collect(page) {
 }
 
 async function collect2(tabela, page) {
-    for (const linha of tabela) {
+    jsonFinal = []
+    for (var linha of tabela) {
         var column_0 = linha.column_0;
         await page.evaluate((text) => {
             const elements = Array.from(document.querySelectorAll('a.ng-binding'));
@@ -68,7 +72,7 @@ async function collect2(tabela, page) {
             var elementos = document.querySelectorAll('p.form-control-static.ng-binding');
             return elementos[23].textContent.trim();
         });
-        const dados = await page.evaluate(() => {
+        var dados = await page.evaluate(() => {
             const titulos = Array.from(document.querySelectorAll('h3.panel-title.ng-binding'));
             const linhas = Array.from(document.querySelectorAll('table.table-bordered.table-striped.table-hover tbody tr'));
             return linhas.map((linha, index) => {
@@ -77,7 +81,7 @@ async function collect2(tabela, page) {
                 code = code[1].split(':');
                 code = code[1];
                 return {
-                    'Codigo': code,
+                    'Codigo': code.trim(),
                     'Unidade': colunas[0].textContent.trim(),
                     'Prazo': colunas[1].textContent.trim(),
                     'Quantidade': colunas[2].textContent.trim(),
@@ -89,12 +93,23 @@ async function collect2(tabela, page) {
                 };
             });
         });
-        console.log(linha.column_11,dados);
+
+        linha.itens = dados;
+        
+        jsonFinal.push(linha);
+
+
         await new Promise(r => setTimeout(r, 3000));
-        await page.goto('https://comlink.com.br/b2b/fornecedor/pedidos');
+
+        await page.evaluate(() => {
+            const elementos = document.querySelectorAll('a.navbar-left-link.ng-binding');
+            elementos[3].click();
+            new Promise(r => setTimeout(r, 500));
+        });
         await new Promise(r => setTimeout(r, 2000));
 
     }
+    return jsonFinal;
 }
 
 
@@ -157,18 +172,42 @@ async function collect2(tabela, page) {
 
     await new Promise(r => setTimeout(r, 500));
 
-
+    dados = []
     COLLECT = await collect(page);
+    dados.push(await collect2(COLLECT, page));
+    for (x = 2; x != 4; x++) {
+        await new Promise(r => setTimeout(r, 3000));
+        await page.evaluate((text) => {
+            const elements = Array.from(document.querySelectorAll('a.ng-binding'));
+            const elementToClick = elements.find(element => element.textContent.trim() === text);
 
-    // console.log(COLLECT.length)
-    // for (var x in COLLECT) {
-    //     console.log(COLLECT[x].column_0)
-    // }
+            if (elementToClick) {
+                elementToClick.click();
+            } else {
+                console.error(`Elemento com texto "${text}" não encontrado.`);
+            }
+        }, x);
+        COLLECT = await collect(page);
+        dados.push(await collect2(COLLECT, page));
+    }
 
-    collect2(COLLECT, page);
+    console.log(dados);
+    const nomeDoArquivo = 'dados.json';
+    const caminhoDoArquivo = `./${nomeDoArquivo}`;
+    const jsonString = JSON.stringify(dados, null, 2);
+
+    fs.writeFile(caminhoDoArquivo, jsonString, 'utf8', (err)=> {
+        if(err){
+            console.error('error: ', err);
+        } else {
+            console.log(`arquivo ${nomeDoArquivo} criado`);
+        }
+    })
 
 
-    //   await browser.close();
+
+
+    await browser.close();
 })();
 
 
