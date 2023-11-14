@@ -27,7 +27,7 @@ async function login(page) {
     await new Promise(r => setTimeout(r, 2000));
 }
 
-async function collect(page) {
+async function collect1(page) {
     const data = await page.evaluate(() => {
         const table = document.querySelector('table.table.table-striped.table-hover');
         const rows = table.querySelectorAll('tbody tr');
@@ -62,16 +62,22 @@ async function collect2(tabela, page) {
             if (elementToClick) {
                 elementToClick.click();
             } else {
-                console.error(`Elemento com texto "${text}" não encontrado.`);
+                console.error(`Elemento com texto "${text}" nï¿½o encontrado.`);
             }
         }, column_0);
 
         await new Promise(r => setTimeout(r, 1000));
 
-        linha.column_11 = await page.evaluate(() => {
+        linha.codigo_pedido = await page.evaluate(() => {
             var elementos = document.querySelectorAll('p.form-control-static.ng-binding');
             return elementos[23].textContent.trim();
         });
+
+        codigo = linha.codigo_pedido.split(':');
+        linha.cotacao = await collect3(codigo[2].trim(), page);
+        console.log(linha.cotacao);
+
+
         var dados = await page.evaluate(() => {
             const titulos = Array.from(document.querySelectorAll('h3.panel-title.ng-binding'));
             const linhas = Array.from(document.querySelectorAll('table.table-bordered.table-striped.table-hover tbody tr'));
@@ -95,7 +101,7 @@ async function collect2(tabela, page) {
         });
 
         linha.itens = dados;
-        
+
         jsonFinal.push(linha);
 
 
@@ -112,6 +118,125 @@ async function collect2(tabela, page) {
     return jsonFinal;
 }
 
+async function collect3(code, page) {
+
+    await page.evaluate(() => {
+        const elementos = document.querySelectorAll('a.navbar-left-link.ng-binding');
+        elementos[1].click();
+    });
+    await new Promise(r => setTimeout(r, 500));
+
+    await page.evaluate(() => {
+        const elementos = document.querySelectorAll('a.navbar-filho-link.ng-binding');
+        elementos[0].click();
+    });
+    await new Promise(r => setTimeout(r, 500));
+
+    await page.evaluate(() => {
+        const botao = document.querySelector('button.btn.btn-default.botao-filtro-responsivo.ng-binding');
+        botao.click();
+    });
+    await new Promise(r => setTimeout(r, 1000));
+
+
+    await page.type('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', '75912'); // Escreve o Filtro
+
+    await page.evaluate(() => { // Aplica o Filtro
+        const botao = document.querySelector('button.btn.btn-success.ng-binding');
+        if (botao) {
+            botao.click();
+        } else {
+            console.error('Botï¿½o nï¿½o encontrado.');
+        }
+    });
+
+    await new Promise(r => setTimeout(r, 2000));
+
+    const divVigentes = await page.$('#vigentes');
+
+    if (divVigentes) {
+        const divBuscaNaoRetornouResultados = await divVigentes.$('.alert.alert-info.ng-binding.ng-scope');
+
+        if (divBuscaNaoRetornouResultados) {
+            // Buscar em ENCERRADAS
+            console.log('A segunda div estÃ¡ dentro da primeira div.');
+        } else {
+            // Coletar dados em Vigentes
+            const itens = await collect4(page);
+            const dados = await page.evaluate((itens) => {
+                const linhas = Array.from(document.querySelectorAll('table.table-hover.table-striped.ng-scope tbody tr'));
+                return linhas.map((linha) => {
+                    const colunas = Array.from(linha.querySelectorAll('td'));
+                    return {
+                        'Indicado': colunas[3].textContent.trim(),
+                        'Cliente': colunas[4].textContent.trim(),
+                        'Publicacao': colunas[6].textContent.trim(),
+                        'Vencimento': colunas[7].textContent.trim(),
+                        'Itens': itens,
+                    };
+                });
+            }, itens);
+
+
+        }
+    } else {
+        console.log('Div Vigentes NÃ£o Encontrada');
+    }
+    dados = dados[0];
+
+    await new Promise(r => setTimeout(r, 50000));
+
+    // ############################
+    // Retornar a Pagina de Pedidos
+    await page.evaluate(() => {
+        const elementos = document.querySelectorAll('a.navbar-left-link.ng-binding');
+        elementos[3].click();
+        new Promise(r => setTimeout(r, 500));
+    });
+    await new Promise(r => setTimeout(r, 2000));
+
+    return 'hello world';
+}
+
+async function collect4(page) {
+    await page.evaluate(() => {
+        const botao = document.querySelector('span.label.label-qtd-itens.ng-binding');
+        botao.click();
+    });
+    await new Promise(r => setTimeout(r, 2000));
+
+
+    const dados = await page.evaluate(() => {
+        const rowData = [];
+
+        const linhas = Array.from(document.querySelectorAll('table.table.table-condensed.table-hover.table-striped tbody tr'));
+
+        return linhas.map((linha) => {
+          const colunas = Array.from(linha.querySelectorAll('td'));
+
+          var final = '';
+
+          colunas.forEach((coluna, index) => {
+            if(index % 2 == 1){
+                coluna.textContent.split('-').forEach(palavra => {
+                    if(palavra != coluna.textContent.split('-')[0]){
+                        if(final == ''){
+                            final = palavra
+                        } else {
+                            final = final + " - " + palavra
+                        }
+                    }
+                });
+                var item = `${coluna.textContent.split('-')[0].trim()}: ${final}`;
+                rowData.push(item);
+            }
+          });
+          return rowData;
+        });
+      });
+
+    return dados[0];
+}
 
 (async () => {
     const browser = await puppeteer.launch({ headless: false, args: ['--start-maximized'] });
@@ -121,7 +246,7 @@ async function collect2(tabela, page) {
 
     login(page);
 
-    // aqui vc está logado
+    // aqui vc estï¿½ logado
 
     await new Promise(r => setTimeout(r, 2000));
 
@@ -139,7 +264,7 @@ async function collect2(tabela, page) {
         if (elemento) {
             elemento.click();
         } else {
-            console.error('Elemento não encontrado');
+            console.error('Elemento nï¿½o encontrado');
         }
     });
 
@@ -159,9 +284,11 @@ async function collect2(tabela, page) {
         if (botao) {
             botao.click();
         } else {
-            console.error('Botão não encontrado.');
+            console.error('Botï¿½o nï¿½o encontrado.');
         }
     });
+
+
 
     await new Promise(r => setTimeout(r, 500));
 
@@ -173,8 +300,8 @@ async function collect2(tabela, page) {
     await new Promise(r => setTimeout(r, 500));
 
     dados = []
-    COLLECT = await collect(page);
-    dados.push(await collect2(COLLECT, page));
+    var collect = await collect1(page);
+    dados.push(await collect2(collect, page));
     for (x = 2; x != 4; x++) {
         await new Promise(r => setTimeout(r, 3000));
         await page.evaluate((text) => {
@@ -184,11 +311,11 @@ async function collect2(tabela, page) {
             if (elementToClick) {
                 elementToClick.click();
             } else {
-                console.error(`Elemento com texto "${text}" não encontrado.`);
+                console.error(`Elemento com texto "${text}" nï¿½o encontrado.`);
             }
         }, x);
-        COLLECT = await collect(page);
-        dados.push(await collect2(COLLECT, page));
+        collect = await collect1(page);
+        dados.push(await collect2(collect, page));
     }
 
     console.log(dados);
@@ -196,8 +323,8 @@ async function collect2(tabela, page) {
     const caminhoDoArquivo = `./${nomeDoArquivo}`;
     const jsonString = JSON.stringify(dados, null, 2);
 
-    fs.writeFile(caminhoDoArquivo, jsonString, 'utf8', (err)=> {
-        if(err){
+    fs.writeFile(caminhoDoArquivo, jsonString, 'utf8', (err) => {
+        if (err) {
             console.error('error: ', err);
         } else {
             console.log(`arquivo ${nomeDoArquivo} criado`);
