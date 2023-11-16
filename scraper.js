@@ -66,7 +66,7 @@ async function collect2(tabela, page) {
             }
         }, column_0);
 
-        await new Promise(r => setTimeout(r, 1000));
+        await new Promise(r => setTimeout(r, 1500));
 
         linha.codigo_pedido = await page.evaluate(() => {
             var elementos = document.querySelectorAll('p.form-control-static.ng-binding');
@@ -74,10 +74,6 @@ async function collect2(tabela, page) {
         });
 
         codigo = linha.codigo_pedido.split(':');
-        linha.cotacao = await collect3(codigo[2].trim(), page);
-        console.log(linha.cotacao);
-
-
         var dados = await page.evaluate(() => {
             const titulos = Array.from(document.querySelectorAll('h3.panel-title.ng-binding'));
             const linhas = Array.from(document.querySelectorAll('table.table-bordered.table-striped.table-hover tbody tr'));
@@ -99,6 +95,8 @@ async function collect2(tabela, page) {
                 };
             });
         });
+
+        linha.cotacao = await collect3(codigo[2].trim(), page);
 
         linha.itens = dados;
 
@@ -138,8 +136,9 @@ async function collect3(code, page) {
     });
     await new Promise(r => setTimeout(r, 1000));
 
+    await page.$eval('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', input => input.value = '');
 
-    await page.type('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', '75912'); // Escreve o Filtro
+    await page.type('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', code); // Escreve o Filtro
 
     await page.evaluate(() => { // Aplica o Filtro
         const botao = document.querySelector('button.btn.btn-success.ng-binding');
@@ -159,11 +158,26 @@ async function collect3(code, page) {
 
         if (divBuscaNaoRetornouResultados) {
             // Buscar em ENCERRADAS
-            console.log('A segunda div está dentro da primeira div.');
-        } else {
-            // Coletar dados em Vigentes
+            await page.waitForSelector('.nav-tabs li:nth-child(2) a');
+            await page.click('.nav-tabs li:nth-child(2) a');
+            await new Promise(r => setTimeout(r, 2000));
+
+            await page.$eval('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', input => input.value = '');
+            await page.type('input[ng-model="frn_cot.mdl.buscarCotacao.cotCliNum"]', code); // Escreve o Filtro
+
+            await page.evaluate(() => { // Aplica o Filtro
+                const botao = document.querySelector('button.btn.btn-success.ng-binding');
+                if (botao) {
+                    botao.click();
+                } else {
+                    console.error('Bot�o n�o encontrado.');
+                }
+            });
+
+            await new Promise(r => setTimeout(r, 2000));
+
             const itens = await collect4(page);
-            const dados = await page.evaluate((itens) => {
+            dados = await page.evaluate((itens) => {
                 const linhas = Array.from(document.querySelectorAll('table.table-hover.table-striped.ng-scope tbody tr'));
                 return linhas.map((linha) => {
                     const colunas = Array.from(linha.querySelectorAll('td'));
@@ -176,15 +190,28 @@ async function collect3(code, page) {
                     };
                 });
             }, itens);
-
-
+        } else {
+            // Coletar dados em Vigentes
+            const itens = await collect4(page);
+            dados = await page.evaluate((itens) => {
+                const linhas = Array.from(document.querySelectorAll('table.table-hover.table-striped.ng-scope tbody tr'));
+                return linhas.map((linha) => {
+                    const colunas = Array.from(linha.querySelectorAll('td'));
+                    return {
+                        'Indicado': colunas[3].textContent.trim(),
+                        'Cliente': colunas[4].textContent.trim(),
+                        'Publicacao': colunas[6].textContent.trim(),
+                        'Vencimento': colunas[7].textContent.trim(),
+                        'Itens': itens,
+                    };
+                });
+            }, itens);
         }
     } else {
         console.log('Div Vigentes Não Encontrada');
     }
     dados = dados[0];
-
-    await new Promise(r => setTimeout(r, 50000));
+    await new Promise(r => setTimeout(r, 2000));
 
     // ############################
     // Retornar a Pagina de Pedidos
@@ -195,7 +222,7 @@ async function collect3(code, page) {
     });
     await new Promise(r => setTimeout(r, 2000));
 
-    return 'hello world';
+    return dados;
 }
 
 async function collect4(page) {
@@ -212,28 +239,28 @@ async function collect4(page) {
         const linhas = Array.from(document.querySelectorAll('table.table.table-condensed.table-hover.table-striped tbody tr'));
 
         return linhas.map((linha) => {
-          const colunas = Array.from(linha.querySelectorAll('td'));
+            const colunas = Array.from(linha.querySelectorAll('td'));
 
-          var final = '';
+            var final = '';
 
-          colunas.forEach((coluna, index) => {
-            if(index % 2 == 1){
-                coluna.textContent.split('-').forEach(palavra => {
-                    if(palavra != coluna.textContent.split('-')[0]){
-                        if(final == ''){
-                            final = palavra
-                        } else {
-                            final = final + " - " + palavra
+            colunas.forEach((coluna, index) => {
+                if (index % 2 == 1) {
+                    coluna.textContent.split('-').forEach(palavra => {
+                        if (palavra != coluna.textContent.split('-')[0]) {
+                            if (final == '') {
+                                final = palavra
+                            } else {
+                                final = final + " - " + palavra
+                            }
                         }
-                    }
-                });
-                var item = `${coluna.textContent.split('-')[0].trim()}: ${final}`;
-                rowData.push(item);
-            }
-          });
-          return rowData;
+                    });
+                    var item = `${coluna.textContent.split('-')[0].trim()}: ${final}`;
+                    rowData.push(item);
+                }
+            });
+            return rowData;
         });
-      });
+    });
 
     return dados[0];
 }
@@ -299,9 +326,9 @@ async function collect4(page) {
 
     await new Promise(r => setTimeout(r, 500));
 
-    dados = []
+    json = []
     var collect = await collect1(page);
-    dados.push(await collect2(collect, page));
+    json.push(await collect2(collect, page));
     for (x = 2; x != 4; x++) {
         await new Promise(r => setTimeout(r, 3000));
         await page.evaluate((text) => {
@@ -315,13 +342,13 @@ async function collect4(page) {
             }
         }, x);
         collect = await collect1(page);
-        dados.push(await collect2(collect, page));
+        json.push(await collect2(collect, page));
     }
 
-    console.log(dados);
-    const nomeDoArquivo = 'dados.json';
+    console.log(json);
+    const nomeDoArquivo = 'json.json';
     const caminhoDoArquivo = `./${nomeDoArquivo}`;
-    const jsonString = JSON.stringify(dados, null, 2);
+    const jsonString = JSON.stringify(json, null, 2);
 
     fs.writeFile(caminhoDoArquivo, jsonString, 'utf8', (err) => {
         if (err) {
