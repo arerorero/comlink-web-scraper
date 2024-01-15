@@ -39,7 +39,38 @@ async function collect1(page) {
             const rowData = {};
 
             columns.forEach((column, index) => {
-                rowData[`column_${index}`] = column.textContent.trim();
+                if(index == 0){
+                    rowData[`Pedido`] = column.textContent.trim();
+                } else if(index == 1) {
+                    rowData[`Status`] = column.textContent.trim();
+                }
+                else if(index == 2){
+                    rowData[`Pendencias`] = column.textContent.trim();
+                }
+                else if(index == 3){
+                    rowData[`Historico`] = column.textContent.trim();
+                }
+                else if(index == 4){
+                    rowData[`Cliente`] = column.textContent.trim();
+                }
+                else if(index == 5){
+                    rowData[`Itens`] = column.textContent.trim();
+                }
+                else if(index == 6){
+                    rowData[`Publicacao`] = column.textContent.trim();
+                }
+                else if(index == 7){
+                    rowData[`Prazo Entrega`] = column.textContent.trim();
+                }
+                else if(index == 8){
+                    rowData[`NF`] = column.textContent.trim();
+                }
+                else if(index == 9){
+                    rowData[`Relatorio`] = column.textContent.trim();
+                }
+                else if(index == 10){
+                    rowData[`Acoes`] = column.textContent.trim();
+                }
             });
 
             result.push(rowData);
@@ -54,7 +85,7 @@ async function collect1(page) {
 async function collect2(tabela, page) {
     jsonFinal = []
     for (var linha of tabela) {
-        var column_0 = linha.column_0;
+        var Pedido = linha.Pedido;
         await page.evaluate((text) => {
             const elements = Array.from(document.querySelectorAll('a.ng-binding'));
             const elementToClick = elements.find(element => element.textContent.trim() === text);
@@ -64,9 +95,9 @@ async function collect2(tabela, page) {
             } else {
                 console.error(`Elemento com texto "${text}" n�o encontrado.`);
             }
-        }, column_0);
+        }, Pedido);
 
-        await new Promise(r => setTimeout(r, 1500));
+        await new Promise(r => setTimeout(r, 2500));
 
         linha.codigo_pedido = await page.evaluate(() => {
             var elementos = document.querySelectorAll('p.form-control-static.ng-binding');
@@ -266,7 +297,7 @@ async function collect4(page) {
 }
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: false, args: ['--start-maximized'] });
+    const browser = await puppeteer.launch({ headless: true, args: ['--start-maximized'] });
     const page = await browser.newPage();
 
     await page.goto(url);
@@ -328,6 +359,7 @@ async function collect4(page) {
 
     json = []
     var collect = await collect1(page);
+    console.log(collect);
     json.push(await collect2(collect, page));
     for (x = 2; x != 4; x++) {
         await new Promise(r => setTimeout(r, 3000));
@@ -364,21 +396,6 @@ async function collect4(page) {
     await browser.close();
 })();
 
-
-// axios.get(url)
-//   .then(response => {
-//     const $ = cheerio.load(response.data);
-//     const titles = [];
-
-//     $('').each((index, element) => {
-//       titles.push($(element).text());
-//     });
-
-//     console.log(titles);
-//   })
-//   .catch(error => {
-//     console.error(error);
-//   });
 
 
 
