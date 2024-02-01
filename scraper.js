@@ -1,30 +1,9 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const { login } = require("./login");
 
 const fs = require("fs");
 
 const url = "http://comlink.com.br";
-
-// async function login(page) {
-//   await page.click("a.showModal.login");
-
-//   await page.type('input[name="txtCodigo"]', "6316617");
-//   await page.type('input[name="txtUsuario"]', "wilson.sartori");
-//   await page.type('input[name="txtSenha"]', "CIARAMA2022");
-
-//   await page.evaluate(() => {
-//     const buttons = document.querySelectorAll('input[type="submit"]');
-//     for (const button of buttons) {
-//       if (button.value === "Login") {
-//         button.click();
-//       }
-//     }
-//   });
-
-//   await new Promise((r) => setTimeout(r, 2000));
-// }
 
 async function collect1(page) {
   const data = await page.evaluate(() => {
