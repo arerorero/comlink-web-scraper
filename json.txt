@@ -1,0 +1,39 @@
+[
+  {
+    "Pedido": "392301",
+    "Itens": "2",
+    "Publicacao": "19/01/2024 14:36:09",
+    "Prazo Entrega": "31/01/2024",
+    "codigo_pedido": "COMLINK: SDC: 79274",
+    "cotacao": {
+      "Indicado": "Sim",
+      "Cliente": "ADECOAGRO VALE DO IVINHEMA LTDA Comprador: DANILO FRANCO",
+      "Publicacao": "18/01/2024 11:30:00",
+      "Vencimento": "19/01/2024 11:30:00"
+    },
+    "itens": [
+      {
+        "Codigo": "1004453203119",
+        "Unidade": "PC",
+        "Prazo": "31-JAN-24",
+        "Quantidade": "4",
+        "ValorUnitario": "R$ 3.250,2400",
+        "Desconto": "",
+        "ICMS": "0",
+        "IPI": "0",
+        "ValorTotal": "R$ 13.000,96"
+      },
+      {
+        "Codigo": "1004453203119",
+        "Unidade": "PC",
+        "Prazo": "31-JAN-24",
+        "Quantidade": "4",
+        "ValorUnitario": "R$ 3.250,2400",
+        "Desconto": "",
+        "ICMS": "0",
+        "IPI": "0",
+        "ValorTotal": "R$ 13.000,96"
+      }
+    ]
+  }
+]

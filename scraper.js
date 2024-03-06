@@ -301,6 +301,13 @@ async function collect4(page) {
   return dados[0];
 }
 
+async function removeColchetes() {
+  const data = await fs.readFile("json.json", "utf8");
+  const jsonData = JSON.parse(data);
+  const jsonString = JSON.stringify(jsonData[0], null, 2);
+  fs.writeFile("json.json", jsonString);
+}
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: false,
@@ -405,4 +412,7 @@ async function collect4(page) {
   });
 
   await browser.close();
+  await removeColchetes();
+
+  // enviar json.json para /cia01200 como string
 })();
